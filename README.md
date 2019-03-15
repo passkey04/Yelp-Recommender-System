@@ -1,5 +1,5 @@
 # Yelp-Recommender-System
-###Summary of all the Models
+###Summary of all the Models###
 
 First Header | Second Header
 ------------ | -------------  | ------------- |
