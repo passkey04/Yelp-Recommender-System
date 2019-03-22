@@ -1,4 +1,4 @@
-# For complete documentation please refer to the report.
+
 
 
 ### Approach to solve this recommendation problem:
